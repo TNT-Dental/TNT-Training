@@ -90,6 +90,7 @@
 - Jr dev does the new site site edits
 - Jr site developer gets a new site with a shadow full site developer to check in on work being done/ help out
 
+
 ## Support QC checklist
  
 1.  Check your work for typos.
@@ -101,3 +102,33 @@
 6. Fix any console errors if possible
 7. Run Screaming Frog
  
+
+## Suggested Udemy courses for training:
+
+### Beginner: 
+- HTML/CSS: 45 min
+	https://www.udemy.com/course/learn-and-understand-complete-html-and-css/
+- HTML/CSS: 4 hrs
+	https://www.udemy.com/course/intro-to-html-and-css-basics/  
+- Jquery: 2 hrs
+	https://www.udemy.com/course/learn-jquery-crash-course/ 
+
+### Intermediate:
+- CSS Flexbox: 2 hrs
+	https://www.udemy.com/course/flexbox-tutorial/ 
+- CSS Grid: 3 hrs
+	https://www.udemy.com/course/css-grid/ 
+- Sass: 3.5 hrs
+	https://www.udemy.com/course/learn-sass/ 
+
+### Level Up:
+- Advanced CSS: 24 hrs
+	https://www.udemy.com/course/advanced-css-sass-framework-flexbox-grid-animations/
+- WordPress Theme Development: 12 hrs
+	https://www.udemy.com/course/bootstrap-to-wordpress/
+- JavaScript: 16 hrs
+	https://www.udemy.com/course/web-projects-with-vanilla-javascript/
+- JavaScript: 28 hrs
+	https://www.udemy.com/course/the-complete-javascript-course/
+- Node: 35 hrs
+	https://www.udemy.com/course/the-complete-nodejs-developer-course-2/
