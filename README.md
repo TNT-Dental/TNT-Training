@@ -72,6 +72,7 @@
 	- Create new template for page with "Example PROG" or "Example FB" in the template title
 	- Update any adder form subjects with "prog" or "Facebook" at the end
 	- Create new page with "Prog" or "FB" at the end of the title and paste content from original page
+	- Copy over title tag, meta tag, and href title from original page to new page. Keep url with "-prog" or "-fb".
 	- Be sure to hide it in the nav
 
 ###	12. Site components
