@@ -68,6 +68,11 @@
         https://github.com/TNT-Dental/Implants-Landing-Page-Template
     - Invisalign
         https://github.com/TNT-Dental/Invisalign-Landing-Page-Template
+- Duplicating Landing Pages for Facebook Ads or Prog
+	- Create new template for page with "Example PROG" or "Example FB" in the template title
+	- Update any adder form subjects with "prog" or "Facebook" at the end
+	- Create new page with "Prog" or "FB" at the end of the title and paste content from original page
+	- Be sure to hide it in the nav
 
 ###	12. Site components
 - parts of new sites are assigned and using XD designs to practice creating as codepens
