@@ -69,11 +69,13 @@
     - Invisalign
         https://github.com/TNT-Dental/Invisalign-Landing-Page-Template
 - Duplicating Landing Pages for Facebook Ads or Prog
-	- Create new template for page with "Example PROG" or "Example FB" in the template title
-	- Update any adder form subjects with "prog" or "Facebook" at the end
-	- Create new page with "Prog" or "FB" at the end of the title and paste content from original page
-	- Copy over title tag, meta tag, and href title from original page to new page. Keep url with "-prog" or "-fb".
-	- Be sure to hide it in the nav
+	- Duplicate original LP template with "Example PROG" or "Example FB" in the template title
+	- Duplicate LP page with "Prog" or "FB" at the end of the title (and url) and paste content from original LP
+	- If there is a form page attached, be sure to duplicate that as well and attach to new template created above.
+	- Update any adder form subjects with "Prog ad - " or "Facebook ad -" at the BEGINNING
+	- Copy over title tag, meta tag, and href title from original page to new page.
+	- If applicable, link new form page with new lp ad page within new template and new page.
+	- Be sure to hide it in the nav.
 
 ###	12. Site components
 - parts of new sites are assigned and using XD designs to practice creating as codepens
